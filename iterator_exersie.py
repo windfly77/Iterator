@@ -16,3 +16,5 @@ class EvenIterator:
 
 for liczba in EvenIterator(1, 10):
     print(liczba)
+
+#Checking for commit
